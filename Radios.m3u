@@ -1,5 +1,4 @@
 #EXTM3U
-#PLAYLIST:Online radio: TECHNO Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="TECHNO Radio - radio.pervii.com", Dance UK Radio danceradiouk - 128 kbit/s
 http://51.89.148.171:8022/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1561118831.jpg" group-title="TECHNO Radio - radio.pervii.com", : IBIZA SONICA RADIO : - 128 kbit/s
@@ -201,7 +200,6 @@ http://pureradio.eu:8000/high?=4
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537515535.jpg" group-title="TECHNO Radio - radio.pervii.com", tonausstrom.de - 128 kbit/s
 http://176.28.22.146:8000/stream/1/
 #EXTM3U
-#PLAYLIST:Online radio: INDUSTRIAL Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1561137121.jpg" group-title="INDUSTRIAL Radio - radio.pervii.com", CoreTime.FM - 24h Hardcore, Industrial, Speedcore and More - 192 kbit/s
 http://mp3.stream.tb-group.fm:80/ct.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1549707149.jpg" group-title="INDUSTRIAL Radio - radio.pervii.com", Hardcorepower Radio - 192 kbit/s
@@ -229,7 +227,6 @@ http://79.111.14.76:9119
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Playground - 128 kbit/s
 http://stream.laut.fm/playground
 #EXTM3U
-#PLAYLIST:Online radio: TRANCE Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537461090.jpg" group-title="TRANCE Radio - radio.pervii.com", Dance Wave! - 128 kbit/s
 http://stream.dancewave.online:8080/dance.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="TRANCE Radio - radio.pervii.com", Dance UK Radio danceradiouk - 128 kbit/s
@@ -431,7 +428,6 @@ http://192.111.140.6:8030/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TRANCE Radio - radio.pervii.com", PulsRadio TRANCE - 192 kbit/s
 http://193.200.42.211/stream/3/
 #EXTM3U
-#PLAYLIST:Online radio: DANCE Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1537439972.jpg" group-title="DANCE Radio - radio.pervii.com", KISSFM Dance - Kiev - 128 kbit/s
 http://online.kissfm.ua/KissFM
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537442683.jpg" group-title="DANCE Radio - radio.pervii.com", Russkie Pesni - 128 kbit/s
@@ -885,7 +881,6 @@ http://91.121.195.222:4858/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550164036.jpg" group-title="HOUSE Radio - radio.pervii.com", pure fm - hamburgs electronic radio - 128 kbit/s
 http://s1.radionetz.de:8000/purefm-hh.mp3
 #EXTM3U
-#PLAYLIST:Online radio: PROGRESSIVE Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1572542908.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Psyndora Psytrance - 128 kbit/s
 http://cast.magicstreams.gr:9111/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/22021.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Hirschmilch Progressive - 128 kbit/s
